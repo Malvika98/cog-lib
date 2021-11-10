@@ -1,3 +1,10 @@
-h1, p {
-  font-family: Lato;
+* {
+  margin: 0;
+  padding: 0;
+}
+baody {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.titles {
+  color: rgb(87, 87, 87);
 }
