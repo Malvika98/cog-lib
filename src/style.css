@@ -8,3 +8,18 @@ baody {
 .titles {
   color: rgb(87, 87, 87);
 }
+.btn{
+  background-color: cadetblue;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 2px;
+  box-sizing: border-box;
+  border: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  cursor: pointer;
+  color: white;
+  font-size: large;
+}
+.btn:hover{
+  background-color: rgb(69, 177, 189);
+}
